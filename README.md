@@ -1,4 +1,4 @@
-##  Standard Format of Filenames
+##  Standard Format of Filenames (as of Nov 14, 2024)
 * ### Leave Form
     - `JSamarita_LeaveForm_MonthDayYYYY`.pdf
 
