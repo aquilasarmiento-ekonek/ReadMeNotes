@@ -1,7 +1,6 @@
 ##  Standard Format of Filenames (as of Nov 14, 2024)
 * ### Leave Form
-    - `JSamarita_LeaveForm_Month 1 to 15, YYYY`.pdf - if range
-    - `JSamarita_LeaveForm_MonthDayYYYY`.pdf - if 1 day
+    - `JSamarita_LeaveForm_Month 1 to 15, YYYY`.pdf
 
 * ### Daily Time Record (DTR)
     - `JSamarita_DTR_Month 1 to 15, YYYY`.xlsx/xls
