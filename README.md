@@ -6,9 +6,9 @@
 * ### Daily Time Record (DTR)
     - `JSamarita_DTR_Month 1 to 15, YYYY`.xlsx/xls
 
-* ### Meal Allowance 
+* ### Meal/OT Allowance Form 
     - `JSamarita_MealAllowance_Month 1 to 15, YYYY`.pdf
 
-* ### OT Form
+* ### OT Pre-Approved Form
     - `JSamarita_OT_Month 1 to 15, YYYY`.pdf
 
